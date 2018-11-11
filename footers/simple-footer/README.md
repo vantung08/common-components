@@ -1,0 +1,1 @@
+This is the re-usable code for a simple footer.
